@@ -1,6 +1,6 @@
 {
   "cCaAQ": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/cCaAQ-img-20260704-wa0023.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/cCaAQ-img-20260704-wa0023.jpg",
     "ext": ".jpg",
@@ -8,7 +8,8 @@
     "name": "img-20260704-wa0023.jpg",
     "size": 63821,
     "uploadedAt": "2026-07-05T08:01:54.663Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-05T08:01:54.731Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-05T08:01:56.011Z",
+    "readyAt": "2026-07-05T08:01:55.903Z"
   }
 }
