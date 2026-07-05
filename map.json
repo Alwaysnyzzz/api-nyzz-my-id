@@ -39,7 +39,7 @@
     "readyAt": "2026-07-05T08:21:10.928Z"
   },
   "BZyCK": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/BZyCK-img-20260704-wa0017.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/BZyCK-img-20260704-wa0017.jpg",
     "ext": ".jpg",
@@ -47,7 +47,8 @@
     "name": "img-20260704-wa0017.jpg",
     "size": 25478,
     "uploadedAt": "2026-07-05T13:19:33.124Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-05T13:19:33.229Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-05T13:19:35.331Z",
+    "readyAt": "2026-07-05T13:19:34.208Z"
   }
 }
