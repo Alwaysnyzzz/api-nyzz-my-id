@@ -52,7 +52,7 @@
     "readyAt": "2026-07-05T13:19:34.208Z"
   },
   "Pginn": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/Pginn-img-20260704-wa0017.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/Pginn-img-20260704-wa0017.jpg",
     "ext": ".jpg",
@@ -60,7 +60,8 @@
     "name": "img-20260704-wa0017.jpg",
     "size": 25478,
     "uploadedAt": "2026-07-05T13:21:54.458Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-05T13:21:54.574Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-05T13:21:55.630Z",
+    "readyAt": "2026-07-05T13:21:55.518Z"
   }
 }
