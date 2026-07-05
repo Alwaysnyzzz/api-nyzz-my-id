@@ -26,7 +26,7 @@
     "readyAt": "2026-07-05T08:20:39.936Z"
   },
   "iaEpX": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/iaEpX-download_1_.mp4",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/iaEpX-download_1_.mp4",
     "ext": ".mp4",
@@ -34,7 +34,8 @@
     "name": "download_1_.mp4",
     "size": 1330305,
     "uploadedAt": "2026-07-05T08:21:09.531Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-05T08:21:09.625Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-05T08:21:11.053Z",
+    "readyAt": "2026-07-05T08:21:10.928Z"
   }
 }
