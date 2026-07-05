@@ -13,7 +13,7 @@
     "readyAt": "2026-07-05T08:01:55.903Z"
   },
   "DOWcf": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/DOWcf-img-20260704-wa0026.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/DOWcf-img-20260704-wa0026.jpg",
     "ext": ".jpg",
@@ -21,7 +21,8 @@
     "name": "img-20260704-wa0026.jpg",
     "size": 104554,
     "uploadedAt": "2026-07-05T08:20:38.767Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-05T08:20:38.869Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-05T08:20:40.040Z",
+    "readyAt": "2026-07-05T08:20:39.936Z"
   }
 }
