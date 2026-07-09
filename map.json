@@ -63,5 +63,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-05T13:21:55.630Z",
     "readyAt": "2026-07-05T13:21:55.518Z"
+  },
+  "DAFZf": {
+    "status": "pending",
+    "path": "files/DAFZf-vid-20260624-wa0000.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/DAFZf-vid-20260624-wa0000.mp4",
+    "ext": ".mp4",
+    "mime": "video/mp4",
+    "name": "vid-20260624-wa0000.mp4",
+    "size": 683552,
+    "uploadedAt": "2026-07-09T11:04:04.034Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-09T11:04:04.158Z"
   }
 }
