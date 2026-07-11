@@ -91,7 +91,7 @@
     "readyAt": "2026-07-11T03:23:47.118Z"
   },
   "YBakT": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/YBakT-img_20260711_125526_230.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/YBakT-img_20260711_125526_230.jpg",
     "ext": ".jpg",
@@ -99,7 +99,8 @@
     "name": "img_20260711_125526_230.jpg",
     "size": 2527643,
     "uploadedAt": "2026-07-11T06:06:58.538Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-11T06:07:04.034Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-11T06:07:05.831Z",
+    "readyAt": "2026-07-11T06:07:05.694Z"
   }
 }
