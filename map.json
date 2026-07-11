@@ -76,5 +76,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-09T11:04:06.023Z",
     "readyAt": "2026-07-09T11:04:05.882Z"
+  },
+  "zUptL": {
+    "status": "pending",
+    "path": "files/zUptL-download_4_.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/zUptL-download_4_.mp4",
+    "ext": ".mp4",
+    "mime": "video/mp4",
+    "name": "download_4_.mp4",
+    "size": 1169414,
+    "uploadedAt": "2026-07-11T03:23:45.535Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-11T03:23:45.661Z"
   }
 }
