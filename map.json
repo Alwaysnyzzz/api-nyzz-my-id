@@ -104,7 +104,7 @@
     "readyAt": "2026-07-11T06:07:05.694Z"
   },
   "BcfHe": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/BcfHe-img_20260711_131046_701.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/BcfHe-img_20260711_131046_701.jpg",
     "ext": ".jpg",
@@ -112,7 +112,8 @@
     "name": "img_20260711_131046_701.jpg",
     "size": 3362674,
     "uploadedAt": "2026-07-11T06:11:07.488Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-11T06:11:07.688Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-11T06:11:10.228Z",
+    "readyAt": "2026-07-11T06:11:09.573Z"
   }
 }
