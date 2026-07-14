@@ -169,7 +169,7 @@
     "readyAt": "2026-07-14T07:57:27.349Z"
   },
   "TQdAW": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/TQdAW-audio.mp3",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/TQdAW-audio.mp3",
     "ext": ".mp3",
@@ -177,7 +177,8 @@
     "name": "audio.mp3",
     "size": 3184995,
     "uploadedAt": "2026-07-14T07:58:33.030Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-14T07:58:33.125Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-14T07:58:35.558Z",
+    "readyAt": "2026-07-14T07:58:35.454Z"
   }
 }
