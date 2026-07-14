@@ -180,5 +180,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-14T07:58:35.558Z",
     "readyAt": "2026-07-14T07:58:35.454Z"
+  },
+  "vcfGl": {
+    "status": "pending",
+    "path": "files/vcfGl-file_0000000011d87207b72dc9883d8f6be2.png",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/vcfGl-file_0000000011d87207b72dc9883d8f6be2.png",
+    "ext": ".png",
+    "mime": "image/png",
+    "name": "file_0000000011d87207b72dc9883d8f6be2.png",
+    "size": 1748140,
+    "uploadedAt": "2026-07-14T08:00:19.170Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-14T08:00:19.277Z"
   }
 }
