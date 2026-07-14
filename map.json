@@ -141,5 +141,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-14T07:29:34.656Z",
     "readyAt": "2026-07-14T07:29:34.532Z"
+  },
+  "VvgCP": {
+    "status": "pending",
+    "path": "files/VvgCP-video.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/VvgCP-video.mp4",
+    "ext": ".mp4",
+    "mime": "video/mp4",
+    "name": "video.mp4",
+    "size": 617490,
+    "uploadedAt": "2026-07-14T07:55:28.934Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-14T07:55:29.043Z"
   }
 }
