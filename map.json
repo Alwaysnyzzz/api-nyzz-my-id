@@ -130,7 +130,7 @@
     "readyAt": "2026-07-14T07:28:26.696Z"
   },
   "OhBGq": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/OhBGq-cxfxo.mp4",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/OhBGq-cxfxo.mp4",
     "ext": ".mp4",
@@ -138,7 +138,8 @@
     "name": "cxfxo.mp4",
     "size": 617490,
     "uploadedAt": "2026-07-14T07:29:32.989Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-14T07:29:33.101Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-14T07:29:34.656Z",
+    "readyAt": "2026-07-14T07:29:34.532Z"
   }
 }
