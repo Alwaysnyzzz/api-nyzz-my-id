@@ -195,7 +195,7 @@
     "readyAt": "2026-07-14T08:00:21.129Z"
   },
   "nQARU": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/nQARU-foto.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/nQARU-foto.jpg",
     "ext": ".jpg",
@@ -203,7 +203,8 @@
     "name": "foto.jpg",
     "size": 1748140,
     "uploadedAt": "2026-07-14T08:06:22.319Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-14T08:06:22.466Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-14T08:06:24.299Z",
+    "readyAt": "2026-07-14T08:06:24.185Z"
   }
 }
