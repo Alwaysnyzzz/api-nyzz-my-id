@@ -115,5 +115,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-11T06:11:10.228Z",
     "readyAt": "2026-07-11T06:11:09.573Z"
+  },
+  "CxfXo": {
+    "status": "pending",
+    "path": "files/CxfXo-video.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/CxfXo-video.mp4",
+    "ext": ".mp4",
+    "mime": "application/octet-stream",
+    "name": "video.mp4",
+    "size": 617490,
+    "uploadedAt": "2026-07-14T07:28:25.035Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-14T07:28:25.132Z"
   }
 }
