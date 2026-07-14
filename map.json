@@ -208,7 +208,7 @@
     "readyAt": "2026-07-14T08:06:24.185Z"
   },
   "VMhjq": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/VMhjq-img.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/VMhjq-img.jpeg",
     "ext": ".jpeg",
@@ -216,7 +216,8 @@
     "name": "img.jpeg",
     "size": 2698,
     "uploadedAt": "2026-07-14T22:40:41.473Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-14T22:40:41.559Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-14T22:40:42.694Z",
+    "readyAt": "2026-07-14T22:40:42.597Z"
   }
 }
