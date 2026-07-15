@@ -234,7 +234,7 @@
     "readyAt": "2026-07-15T04:07:44.851Z"
   },
   "gzlFh": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/gzlFh-img.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/gzlFh-img.jpeg",
     "ext": ".jpeg",
@@ -242,7 +242,8 @@
     "name": "img.jpeg",
     "size": 2698,
     "uploadedAt": "2026-07-15T04:24:36.830Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-15T04:24:36.956Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-15T04:24:38.160Z",
+    "readyAt": "2026-07-15T04:24:38.056Z"
   }
 }
