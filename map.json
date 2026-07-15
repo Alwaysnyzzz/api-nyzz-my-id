@@ -258,5 +258,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-15T04:43:58.537Z",
     "readyAt": "2026-07-15T04:43:58.430Z"
+  },
+  "yyWXO": {
+    "status": "pending",
+    "path": "files/yyWXO-1d8abe84b0ab9f04bb1518dffecf4865.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/yyWXO-1d8abe84b0ab9f04bb1518dffecf4865.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "1d8abe84b0ab9f04bb1518dffecf4865.jpg",
+    "size": 45528,
+    "uploadedAt": "2026-07-15T06:16:53.453Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-15T06:16:53.561Z"
   }
 }
