@@ -219,5 +219,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-14T22:40:42.694Z",
     "readyAt": "2026-07-14T22:40:42.597Z"
+  },
+  "wAWuA": {
+    "status": "pending",
+    "path": "files/wAWuA-img.jpeg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/wAWuA-img.jpeg",
+    "ext": ".jpeg",
+    "mime": "image/jpeg",
+    "name": "img.jpeg",
+    "size": 2698,
+    "uploadedAt": "2026-07-15T04:07:43.747Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-15T04:07:43.837Z"
   }
 }
