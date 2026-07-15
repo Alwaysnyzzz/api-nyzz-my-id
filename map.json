@@ -245,5 +245,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-15T04:24:38.160Z",
     "readyAt": "2026-07-15T04:24:38.056Z"
+  },
+  "NpelH": {
+    "status": "pending",
+    "path": "files/NpelH-900ab276d02bc989afbe3e2650031c82.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/NpelH-900ab276d02bc989afbe3e2650031c82.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "900ab276d02bc989afbe3e2650031c82.jpg",
+    "size": 47140,
+    "uploadedAt": "2026-07-15T04:43:57.281Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-15T04:43:57.366Z"
   }
 }
