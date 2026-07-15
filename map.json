@@ -273,7 +273,7 @@
     "readyAt": "2026-07-15T06:16:54.769Z"
   },
   "qYCCr": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/qYCCr-screenshot_20260715-165051.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/qYCCr-screenshot_20260715-165051.jpg",
     "ext": ".jpg",
@@ -281,7 +281,8 @@
     "name": "screenshot_20260715-165051.jpg",
     "size": 658152,
     "uploadedAt": "2026-07-15T09:51:38.072Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-15T09:51:38.184Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-15T09:51:39.858Z",
+    "readyAt": "2026-07-15T09:51:39.726Z"
   }
 }
