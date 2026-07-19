@@ -297,5 +297,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-19T13:15:48.615Z",
     "readyAt": "2026-07-19T13:15:48.511Z"
+  },
+  "xYwWg": {
+    "status": "pending",
+    "path": "files/xYwWg-screen_recording_20260719_204824.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/xYwWg-screen_recording_20260719_204824.mp4",
+    "ext": ".mp4",
+    "mime": "video/mp4",
+    "name": "screen_recording_20260719_204824.mp4",
+    "size": 2898743,
+    "uploadedAt": "2026-07-19T14:00:38.856Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-19T14:00:38.961Z"
   }
 }
