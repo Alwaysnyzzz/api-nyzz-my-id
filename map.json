@@ -286,7 +286,7 @@
     "readyAt": "2026-07-15T09:51:39.726Z"
   },
   "mrJOd": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/mrJOd-a4063d7ed05fa8b2121cb717a9d2a7c6.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/mrJOd-a4063d7ed05fa8b2121cb717a9d2a7c6.jpg",
     "ext": ".jpg",
@@ -294,7 +294,8 @@
     "name": "a4063d7ed05fa8b2121cb717a9d2a7c6.jpg",
     "size": 40667,
     "uploadedAt": "2026-07-19T13:15:47.190Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-19T13:15:47.328Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-19T13:15:48.615Z",
+    "readyAt": "2026-07-19T13:15:48.511Z"
   }
 }
