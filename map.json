@@ -310,5 +310,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-19T14:00:41.012Z",
     "readyAt": "2026-07-19T14:00:40.909Z"
+  },
+  "eTHHK": {
+    "status": "pending",
+    "path": "files/eTHHK-screen_recording_20260720_181148.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/eTHHK-screen_recording_20260720_181148.mp4",
+    "ext": ".mp4",
+    "mime": "video/mp4",
+    "name": "screen_recording_20260720_181148.mp4",
+    "size": 3269262,
+    "uploadedAt": "2026-07-20T11:12:11.490Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-20T11:12:11.606Z"
   }
 }
