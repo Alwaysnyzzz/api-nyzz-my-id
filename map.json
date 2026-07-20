@@ -377,7 +377,7 @@
     "readyAt": "2026-07-20T15:18:42.524Z"
   },
   "TBPXt": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/TBPXt-hdfotov5.png",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/TBPXt-hdfotov5.png",
     "ext": ".png",
@@ -385,7 +385,8 @@
     "name": "hdfotov5.png",
     "size": 1456567,
     "uploadedAt": "2026-07-20T15:19:07.526Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-20T15:19:07.638Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-20T15:19:10.441Z",
+    "readyAt": "2026-07-20T15:19:10.287Z"
   }
 }
