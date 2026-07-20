@@ -364,7 +364,7 @@
     "readyAt": "2026-07-20T12:09:04.374Z"
   },
   "DGclg": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/DGclg-screen_recording_20260720_181148.mp4",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/DGclg-screen_recording_20260720_181148.mp4",
     "ext": ".mp4",
@@ -372,7 +372,8 @@
     "name": "screen_recording_20260720_181148.mp4",
     "size": 3269262,
     "uploadedAt": "2026-07-20T15:18:39.417Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-20T15:18:39.659Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-20T15:18:42.651Z",
+    "readyAt": "2026-07-20T15:18:42.524Z"
   }
 }
