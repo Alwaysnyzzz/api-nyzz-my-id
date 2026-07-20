@@ -323,5 +323,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-20T11:12:13.953Z",
     "readyAt": "2026-07-20T11:12:13.814Z"
+  },
+  "QxcAx": {
+    "status": "pending",
+    "path": "files/QxcAx-hdfotov5.png",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/QxcAx-hdfotov5.png",
+    "ext": ".png",
+    "mime": "image/png",
+    "name": "hdfotov5.png",
+    "size": 1456567,
+    "uploadedAt": "2026-07-20T11:35:32.082Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-20T11:35:32.214Z"
   }
 }
