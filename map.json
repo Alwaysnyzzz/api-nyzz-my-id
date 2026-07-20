@@ -338,7 +338,7 @@
     "readyAt": "2026-07-20T11:35:34.034Z"
   },
   "RLXjE": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/RLXjE-hdfotov5.png",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/RLXjE-hdfotov5.png",
     "ext": ".png",
@@ -346,7 +346,8 @@
     "name": "hdfotov5.png",
     "size": 1456567,
     "uploadedAt": "2026-07-20T12:08:31.162Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-20T12:08:31.301Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-20T12:08:33.354Z",
+    "readyAt": "2026-07-20T12:08:33.194Z"
   }
 }
