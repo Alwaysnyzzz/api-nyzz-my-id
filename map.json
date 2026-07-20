@@ -351,7 +351,7 @@
     "readyAt": "2026-07-20T12:08:33.194Z"
   },
   "eeVkK": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/eeVkK-screen_recording_20260720_181148.mp4",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/eeVkK-screen_recording_20260720_181148.mp4",
     "ext": ".mp4",
@@ -359,7 +359,8 @@
     "name": "screen_recording_20260720_181148.mp4",
     "size": 3269262,
     "uploadedAt": "2026-07-20T12:09:01.985Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-20T12:09:02.147Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-20T12:09:04.552Z",
+    "readyAt": "2026-07-20T12:09:04.374Z"
   }
 }
