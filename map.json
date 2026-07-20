@@ -401,5 +401,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-20T15:35:01.342Z",
     "readyAt": "2026-07-20T15:35:01.176Z"
+  },
+  "cmGNT": {
+    "status": "pending",
+    "path": "files/cmGNT-threadsdownload.net_1784451078039.jpeg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/cmGNT-threadsdownload.net_1784451078039.jpeg",
+    "ext": ".jpeg",
+    "mime": "image/jpeg",
+    "name": "threadsdownload.net_1784451078039.jpeg",
+    "size": 1331340,
+    "uploadedAt": "2026-07-20T16:08:01.518Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-20T16:08:01.642Z"
   }
 }
