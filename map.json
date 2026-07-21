@@ -440,5 +440,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-21T08:33:49.534Z",
     "readyAt": "2026-07-21T08:33:49.425Z"
+  },
+  "TsYOp": {
+    "status": "pending",
+    "path": "files/TsYOp-download_4_1_.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/TsYOp-download_4_1_.mp4",
+    "ext": ".mp4",
+    "mime": "video/mp4",
+    "name": "download_4_1_.mp4",
+    "size": 1169414,
+    "uploadedAt": "2026-07-21T08:38:08.857Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-21T08:38:08.972Z"
   }
 }
