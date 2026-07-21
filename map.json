@@ -414,5 +414,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-20T16:08:04.354Z",
     "readyAt": "2026-07-20T16:08:04.150Z"
+  },
+  "KUsBH": {
+    "status": "pending",
+    "path": "files/KUsBH-hdfotov5.png",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/KUsBH-hdfotov5.png",
+    "ext": ".png",
+    "mime": "image/png",
+    "name": "hdfotov5.png",
+    "size": 1456567,
+    "uploadedAt": "2026-07-21T08:33:04.486Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-07-21T08:33:04.603Z"
   }
 }
