@@ -429,7 +429,7 @@
     "readyAt": "2026-07-21T08:33:06.298Z"
   },
   "XJoAs": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/XJoAs-screen_recording_20260720_181148.mp4",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/XJoAs-screen_recording_20260720_181148.mp4",
     "ext": ".mp4",
@@ -437,7 +437,8 @@
     "name": "screen_recording_20260720_181148.mp4",
     "size": 3269262,
     "uploadedAt": "2026-07-21T08:33:47.452Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-21T08:33:47.553Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-21T08:33:49.534Z",
+    "readyAt": "2026-07-21T08:33:49.425Z"
   }
 }
