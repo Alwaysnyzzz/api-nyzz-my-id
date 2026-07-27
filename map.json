@@ -455,7 +455,7 @@
     "readyAt": "2026-07-21T08:38:10.431Z"
   },
   "duiBl": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/duiBl-raw-mobil.html",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/duiBl-raw-mobil.html",
     "ext": ".html",
@@ -463,7 +463,8 @@
     "name": "raw-mobil.html",
     "size": 6199,
     "uploadedAt": "2026-07-27T15:35:52.544Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-07-27T15:35:52.663Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-07-27T15:35:54.033Z",
+    "readyAt": "2026-07-27T15:35:53.911Z"
   }
 }
