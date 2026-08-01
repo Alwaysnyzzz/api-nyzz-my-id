@@ -481,7 +481,7 @@
     "readyAt": "2026-08-01T13:18:21.394Z"
   },
   "heAoP": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/heAoP-grop_mabar_ml_20260801_224728.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/heAoP-grop_mabar_ml_20260801_224728.jpg",
     "ext": ".jpg",
@@ -489,7 +489,8 @@
     "name": "grop_mabar_ml_20260801_224728.jpg",
     "size": 29740,
     "uploadedAt": "2026-08-01T16:06:22.584Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-01T16:06:22.696Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-01T16:06:23.889Z",
+    "readyAt": "2026-08-01T16:06:23.765Z"
   }
 }
