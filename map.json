@@ -492,5 +492,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-08-01T16:06:23.889Z",
     "readyAt": "2026-08-01T16:06:23.765Z"
+  },
+  "BqFXb": {
+    "status": "pending",
+    "path": "files/BqFXb-grop_mabar_ml_20260801_224728.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/BqFXb-grop_mabar_ml_20260801_224728.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "grop_mabar_ml_20260801_224728.jpg",
+    "size": 29740,
+    "uploadedAt": "2026-08-01T22:39:32.540Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-08-01T22:39:32.655Z"
   }
 }
