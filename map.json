@@ -466,5 +466,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-07-27T15:35:54.033Z",
     "readyAt": "2026-07-27T15:35:53.911Z"
+  },
+  "hXGmU": {
+    "status": "pending",
+    "path": "files/hXGmU-img-20260801-wa0004.jpeg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/hXGmU-img-20260801-wa0004.jpeg",
+    "ext": ".jpeg",
+    "mime": "image/jpeg",
+    "name": "img-20260801-wa0004.jpeg",
+    "size": 1337757,
+    "uploadedAt": "2026-08-01T13:18:19.844Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-08-01T13:18:19.956Z"
   }
 }
