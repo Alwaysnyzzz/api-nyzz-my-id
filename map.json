@@ -520,7 +520,7 @@
     "readyAt": "2026-08-06T03:26:34.516Z"
   },
   "ogOrF": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/ogOrF-photo.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/ogOrF-photo.jpg",
     "ext": ".jpg",
@@ -528,7 +528,8 @@
     "name": "photo.jpg",
     "size": 66187,
     "uploadedAt": "2026-08-06T03:32:55.136Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-06T03:32:55.255Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-06T03:32:57.611Z",
+    "readyAt": "2026-08-06T03:32:56.445Z"
   }
 }
