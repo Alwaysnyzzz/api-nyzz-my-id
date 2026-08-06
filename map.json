@@ -533,7 +533,7 @@
     "readyAt": "2026-08-06T03:32:56.445Z"
   },
   "ljFWn": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/ljFWn-video.mp4",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/ljFWn-video.mp4",
     "ext": ".mp4",
@@ -541,7 +541,8 @@
     "name": "video.mp4",
     "size": 3091729,
     "uploadedAt": "2026-08-06T10:40:54.465Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-06T10:40:54.606Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-06T10:40:58.014Z",
+    "readyAt": "2026-08-06T10:40:57.896Z"
   }
 }
