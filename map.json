@@ -507,7 +507,7 @@
     "readyAt": "2026-08-01T22:39:33.771Z"
   },
   "KWQle": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/KWQle-photo.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/KWQle-photo.jpg",
     "ext": ".jpg",
@@ -515,7 +515,8 @@
     "name": "photo.jpg",
     "size": 66187,
     "uploadedAt": "2026-08-06T03:26:33.080Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-06T03:26:33.231Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-06T03:26:34.624Z",
+    "readyAt": "2026-08-06T03:26:34.516Z"
   }
 }
