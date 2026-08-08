@@ -570,5 +570,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-08-08T06:06:37.245Z",
     "readyAt": "2026-08-08T06:06:37.128Z"
+  },
+  "NSbsQ": {
+    "status": "pending",
+    "path": "files/NSbsQ-photo.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/NSbsQ-photo.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "photo.jpg",
+    "size": 44699,
+    "uploadedAt": "2026-08-08T07:35:52.124Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-08-08T07:35:52.240Z"
   }
 }
