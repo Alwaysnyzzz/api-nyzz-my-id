@@ -544,5 +544,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-08-06T10:40:58.014Z",
     "readyAt": "2026-08-06T10:40:57.896Z"
+  },
+  "xIeoG": {
+    "status": "pending",
+    "path": "files/xIeoG-screenshot_20260808-130313.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/xIeoG-screenshot_20260808-130313.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "screenshot_20260808-130313.jpg",
+    "size": 775442,
+    "uploadedAt": "2026-08-08T06:04:23.027Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-08-08T06:04:23.137Z"
   }
 }
