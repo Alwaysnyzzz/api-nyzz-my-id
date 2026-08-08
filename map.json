@@ -609,5 +609,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-08-08T08:03:00.822Z",
     "readyAt": "2026-08-08T08:03:00.694Z"
+  },
+  "fdXOs": {
+    "status": "pending",
+    "path": "files/fdXOs-photo.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/fdXOs-photo.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "photo.jpg",
+    "size": 133644,
+    "uploadedAt": "2026-08-08T09:35:28.009Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-08-08T09:35:28.132Z"
   }
 }
