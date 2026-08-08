@@ -559,7 +559,7 @@
     "readyAt": "2026-08-08T06:04:24.555Z"
   },
   "eHbBg": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/eHbBg-photo.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/eHbBg-photo.jpg",
     "ext": ".jpg",
@@ -567,7 +567,8 @@
     "name": "photo.jpg",
     "size": 147784,
     "uploadedAt": "2026-08-08T06:06:35.910Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-08T06:06:36.015Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-08T06:06:37.245Z",
+    "readyAt": "2026-08-08T06:06:37.128Z"
   }
 }
