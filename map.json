@@ -583,5 +583,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-08-08T07:35:53.751Z",
     "readyAt": "2026-08-08T07:35:53.559Z"
+  },
+  "HGGbG": {
+    "status": "pending",
+    "path": "files/HGGbG-photo.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/HGGbG-photo.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "photo.jpg",
+    "size": 81316,
+    "uploadedAt": "2026-08-08T07:40:09.772Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-08-08T07:40:09.876Z"
   }
 }
