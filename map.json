@@ -572,7 +572,7 @@
     "readyAt": "2026-08-08T06:06:37.128Z"
   },
   "NSbsQ": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/NSbsQ-photo.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/NSbsQ-photo.jpg",
     "ext": ".jpg",
@@ -580,7 +580,8 @@
     "name": "photo.jpg",
     "size": 44699,
     "uploadedAt": "2026-08-08T07:35:52.124Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-08T07:35:52.240Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-08T07:35:53.751Z",
+    "readyAt": "2026-08-08T07:35:53.559Z"
   }
 }
