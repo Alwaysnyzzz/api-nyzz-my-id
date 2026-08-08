@@ -598,7 +598,7 @@
     "readyAt": "2026-08-08T07:40:10.974Z"
   },
   "GajLW": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/GajLW-photo.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/GajLW-photo.jpg",
     "ext": ".jpg",
@@ -606,7 +606,8 @@
     "name": "photo.jpg",
     "size": 177248,
     "uploadedAt": "2026-08-08T08:02:59.533Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-08T08:02:59.640Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-08T08:03:00.822Z",
+    "readyAt": "2026-08-08T08:03:00.694Z"
   }
 }
