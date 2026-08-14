@@ -624,7 +624,7 @@
     "readyAt": "2026-08-08T09:35:29.245Z"
   },
   "mCElb": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/mCElb-hikarimenu.js",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/mCElb-hikarimenu.js",
     "ext": ".js",
@@ -632,7 +632,8 @@
     "name": "hikarimenu.js",
     "size": 17477,
     "uploadedAt": "2026-08-14T22:30:25.249Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-14T22:30:25.365Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-14T22:30:27.678Z",
+    "readyAt": "2026-08-14T22:30:26.504Z"
   }
 }
