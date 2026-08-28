@@ -637,7 +637,7 @@
     "readyAt": "2026-08-14T22:30:26.504Z"
   },
   "ChCrT": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/ChCrT-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/ChCrT-file.jpeg",
     "ext": ".jpeg",
@@ -645,7 +645,8 @@
     "name": "file.jpeg",
     "size": 91808,
     "uploadedAt": "2026-08-28T14:58:30.355Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-28T14:58:30.545Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-28T14:58:32.108Z",
+    "readyAt": "2026-08-28T14:58:31.986Z"
   }
 }
