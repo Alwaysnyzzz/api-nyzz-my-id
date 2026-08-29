@@ -689,7 +689,7 @@
     "readyAt": "2026-08-29T23:11:24.486Z"
   },
   "gpeuZ": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/gpeuZ-dfae8d8c67925961aceb1af2244b59fb.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/gpeuZ-dfae8d8c67925961aceb1af2244b59fb.jpg",
     "ext": ".jpg",
@@ -697,7 +697,8 @@
     "name": "dfae8d8c67925961aceb1af2244b59fb.jpg",
     "size": 44427,
     "uploadedAt": "2026-08-29T23:11:34.597Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-29T23:11:34.687Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-29T23:11:36.101Z",
+    "readyAt": "2026-08-29T23:11:35.988Z"
   }
 }
