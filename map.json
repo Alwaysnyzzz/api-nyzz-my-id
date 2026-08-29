@@ -663,7 +663,7 @@
     "readyAt": "2026-08-29T23:10:42.085Z"
   },
   "tKRaP": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/tKRaP-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/tKRaP-file.jpeg",
     "ext": ".jpeg",
@@ -671,7 +671,8 @@
     "name": "file.jpeg",
     "size": 44309,
     "uploadedAt": "2026-08-29T23:10:49.732Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-29T23:10:49.835Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-29T23:10:51.134Z",
+    "readyAt": "2026-08-29T23:10:51.023Z"
   }
 }
