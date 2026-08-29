@@ -676,7 +676,7 @@
     "readyAt": "2026-08-29T23:10:51.023Z"
   },
   "sEAfA": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/sEAfA-3dbbee4629fa0d902b849b40266571e2.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/sEAfA-3dbbee4629fa0d902b849b40266571e2.jpg",
     "ext": ".jpg",
@@ -684,7 +684,8 @@
     "name": "3dbbee4629fa0d902b849b40266571e2.jpg",
     "size": 42970,
     "uploadedAt": "2026-08-29T23:11:23.129Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-29T23:11:23.237Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-29T23:11:24.601Z",
+    "readyAt": "2026-08-29T23:11:24.486Z"
   }
 }
