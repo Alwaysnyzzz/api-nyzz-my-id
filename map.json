@@ -650,7 +650,7 @@
     "readyAt": "2026-08-28T14:58:31.986Z"
   },
   "aQqrz": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/aQqrz-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/aQqrz-file.jpeg",
     "ext": ".jpeg",
@@ -658,7 +658,8 @@
     "name": "file.jpeg",
     "size": 38938,
     "uploadedAt": "2026-08-29T23:10:40.725Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-29T23:10:40.868Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-29T23:10:42.196Z",
+    "readyAt": "2026-08-29T23:10:42.085Z"
   }
 }
