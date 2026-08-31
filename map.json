@@ -741,7 +741,7 @@
     "readyAt": "2026-08-31T11:27:08.411Z"
   },
   "tCjtv": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/tCjtv-screenshot_20260831-180524.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/tCjtv-screenshot_20260831-180524.jpg",
     "ext": ".jpg",
@@ -749,7 +749,8 @@
     "name": "screenshot_20260831-180524.jpg",
     "size": 330156,
     "uploadedAt": "2026-08-31T11:27:22.239Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-31T11:27:22.392Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-31T11:27:24.007Z",
+    "readyAt": "2026-08-31T11:27:23.862Z"
   }
 }
