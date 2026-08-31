@@ -715,7 +715,7 @@
     "readyAt": "2026-08-31T11:10:54.086Z"
   },
   "SKgIt": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/SKgIt-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/SKgIt-file.jpeg",
     "ext": ".jpeg",
@@ -723,7 +723,8 @@
     "name": "file.jpeg",
     "size": 42108,
     "uploadedAt": "2026-08-31T11:25:59.012Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-31T11:25:59.144Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-31T11:26:00.597Z",
+    "readyAt": "2026-08-31T11:26:00.477Z"
   }
 }
