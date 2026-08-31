@@ -726,5 +726,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-08-31T11:26:00.597Z",
     "readyAt": "2026-08-31T11:26:00.477Z"
+  },
+  "FRqYi": {
+    "status": "pending",
+    "path": "files/FRqYi-file.jpeg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/FRqYi-file.jpeg",
+    "ext": ".jpeg",
+    "mime": "image/jpeg",
+    "name": "file.jpeg",
+    "size": 104675,
+    "uploadedAt": "2026-08-31T11:27:06.805Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-08-31T11:27:06.935Z"
   }
 }
