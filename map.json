@@ -702,7 +702,7 @@
     "readyAt": "2026-08-29T23:11:35.988Z"
   },
   "GsWCm": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/GsWCm-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/GsWCm-file.jpeg",
     "ext": ".jpeg",
@@ -710,7 +710,8 @@
     "name": "file.jpeg",
     "size": 74735,
     "uploadedAt": "2026-08-31T11:10:52.038Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-08-31T11:10:52.205Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-08-31T11:10:54.197Z",
+    "readyAt": "2026-08-31T11:10:54.086Z"
   }
 }
