@@ -752,5 +752,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-08-31T11:27:24.007Z",
     "readyAt": "2026-08-31T11:27:23.862Z"
+  },
+  "Rckdj": {
+    "status": "pending",
+    "path": "files/Rckdj-default-profil.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/Rckdj-default-profil.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "default-profil.jpg",
+    "size": 5722,
+    "uploadedAt": "2026-09-04T06:27:56.054Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-09-04T06:27:56.222Z"
   }
 }
