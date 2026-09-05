@@ -767,7 +767,7 @@
     "readyAt": "2026-09-04T06:27:57.979Z"
   },
   "PBeCj": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/PBeCj-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/PBeCj-file.jpeg",
     "ext": ".jpeg",
@@ -775,7 +775,8 @@
     "name": "file.jpeg",
     "size": 108646,
     "uploadedAt": "2026-09-05T02:52:01.758Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-05T02:52:01.889Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-05T02:52:03.182Z",
+    "readyAt": "2026-09-05T02:52:03.064Z"
   }
 }
