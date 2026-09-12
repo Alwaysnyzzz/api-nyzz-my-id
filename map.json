@@ -793,7 +793,7 @@
     "readyAt": "2026-09-12T08:41:37.578Z"
   },
   "vcXNs": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/vcXNs-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/vcXNs-file.jpeg",
     "ext": ".jpeg",
@@ -801,7 +801,8 @@
     "name": "file.jpeg",
     "size": 42108,
     "uploadedAt": "2026-09-12T08:43:00.712Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-12T08:43:00.823Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-12T08:43:02.061Z",
+    "readyAt": "2026-09-12T08:43:01.950Z"
   }
 }
