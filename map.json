@@ -780,7 +780,7 @@
     "readyAt": "2026-09-05T02:52:03.064Z"
   },
   "KzFYa": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/KzFYa-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/KzFYa-file.jpeg",
     "ext": ".jpeg",
@@ -788,7 +788,8 @@
     "name": "file.jpeg",
     "size": 99813,
     "uploadedAt": "2026-09-12T08:41:35.995Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-12T08:41:36.105Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-12T08:41:37.690Z",
+    "readyAt": "2026-09-12T08:41:37.578Z"
   }
 }
