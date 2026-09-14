@@ -804,5 +804,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-09-12T08:43:02.061Z",
     "readyAt": "2026-09-12T08:43:01.950Z"
+  },
+  "cdNCO": {
+    "status": "pending",
+    "path": "files/cdNCO-default-profil.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/cdNCO-default-profil.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "default-profil.jpg",
+    "size": 5722,
+    "uploadedAt": "2026-09-14T14:58:06.662Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-09-14T14:58:06.813Z"
   }
 }
