@@ -819,7 +819,7 @@
     "readyAt": "2026-09-14T14:58:08.528Z"
   },
   "VDOQl": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/VDOQl-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/VDOQl-file.jpeg",
     "ext": ".jpeg",
@@ -827,7 +827,8 @@
     "name": "file.jpeg",
     "size": 202905,
     "uploadedAt": "2026-09-14T23:25:39.417Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-14T23:25:39.549Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-14T23:25:41.100Z",
+    "readyAt": "2026-09-14T23:25:40.994Z"
   }
 }
