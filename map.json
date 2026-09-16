@@ -845,7 +845,7 @@
     "readyAt": "2026-09-16T07:59:21.382Z"
   },
   "fIkNA": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/fIkNA-default-profil.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/fIkNA-default-profil.jpg",
     "ext": ".jpg",
@@ -853,7 +853,8 @@
     "name": "default-profil.jpg",
     "size": 5722,
     "uploadedAt": "2026-09-16T07:59:21.500Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-16T07:59:23.136Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-16T07:59:24.583Z",
+    "readyAt": "2026-09-16T07:59:24.436Z"
   }
 }
