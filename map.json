@@ -832,7 +832,7 @@
     "readyAt": "2026-09-14T23:25:40.994Z"
   },
   "uPmsd": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/uPmsd-default-profil.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/uPmsd-default-profil.jpg",
     "ext": ".jpg",
@@ -840,7 +840,8 @@
     "name": "default-profil.jpg",
     "size": 5722,
     "uploadedAt": "2026-09-16T07:59:19.817Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-16T07:59:19.979Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-16T07:59:21.501Z",
+    "readyAt": "2026-09-16T07:59:21.382Z"
   }
 }
