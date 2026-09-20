@@ -921,5 +921,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-09-20T07:42:32.808Z",
     "readyAt": "2026-09-20T07:42:32.708Z"
+  },
+  "buOGG": {
+    "status": "pending",
+    "path": "files/buOGG-6aaa170b7cef026fe83253e4e2683b68.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/buOGG-6aaa170b7cef026fe83253e4e2683b68.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "6aaa170b7cef026fe83253e4e2683b68.jpg",
+    "size": 49685,
+    "uploadedAt": "2026-09-20T11:23:07.676Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-09-20T11:23:07.788Z"
   }
 }
