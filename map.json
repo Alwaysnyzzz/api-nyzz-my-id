@@ -908,5 +908,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-09-20T05:04:54.105Z",
     "readyAt": "2026-09-20T05:04:54.010Z"
+  },
+  "bXvrE": {
+    "status": "pending",
+    "path": "files/bXvrE-6aaa170b7cef026fe83253e4e2683b68.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/bXvrE-6aaa170b7cef026fe83253e4e2683b68.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "6aaa170b7cef026fe83253e4e2683b68.jpg",
+    "size": 49685,
+    "uploadedAt": "2026-09-20T07:42:31.396Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-09-20T07:42:31.520Z"
   }
 }
