@@ -882,5 +882,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-09-20T02:36:16.684Z",
     "readyAt": "2026-09-20T02:36:16.585Z"
+  },
+  "YtDpC": {
+    "status": "pending",
+    "path": "files/YtDpC-fajr_128_44.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/YtDpC-fajr_128_44.mp3",
+    "ext": ".mp3",
+    "mime": "audio/mpeg",
+    "name": "fajr_128_44.mp3",
+    "size": 2996349,
+    "uploadedAt": "2026-09-20T05:04:02.435Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-09-20T05:04:02.560Z"
   }
 }
