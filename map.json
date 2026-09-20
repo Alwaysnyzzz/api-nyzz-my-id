@@ -869,5 +869,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-09-20T02:35:27.433Z",
     "readyAt": "2026-09-20T02:35:27.321Z"
+  },
+  "YRBne": {
+    "status": "pending",
+    "path": "files/YRBne-screenshot_20260920-093439.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/YRBne-screenshot_20260920-093439.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "screenshot_20260920-093439.jpg",
+    "size": 960577,
+    "uploadedAt": "2026-09-20T02:36:15.025Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-09-20T02:36:15.138Z"
   }
 }
