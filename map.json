@@ -897,7 +897,7 @@
     "readyAt": "2026-09-20T05:04:04.507Z"
   },
   "bvVwx": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/bvVwx-mecca_56_22.mp3",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/bvVwx-mecca_56_22.mp3",
     "ext": ".mp3",
@@ -905,7 +905,8 @@
     "name": "mecca_56_22.mp3",
     "size": 1423360,
     "uploadedAt": "2026-09-20T05:04:52.313Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-20T05:04:52.421Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-20T05:04:54.105Z",
+    "readyAt": "2026-09-20T05:04:54.010Z"
   }
 }
