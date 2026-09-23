@@ -936,7 +936,7 @@
     "readyAt": "2026-09-20T11:23:08.995Z"
   },
   "eSPbg": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/eSPbg-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/eSPbg-file.jpeg",
     "ext": ".jpeg",
@@ -944,7 +944,8 @@
     "name": "file.jpeg",
     "size": 109249,
     "uploadedAt": "2026-09-23T09:14:50.700Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-23T09:14:50.824Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-23T09:14:52.542Z",
+    "readyAt": "2026-09-23T09:14:52.387Z"
   }
 }
