@@ -988,7 +988,7 @@
     "readyAt": "2026-09-24T11:06:48.031Z"
   },
   "swCuw": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/swCuw-file.jpeg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/swCuw-file.jpeg",
     "ext": ".jpeg",
@@ -996,7 +996,8 @@
     "name": "file.jpeg",
     "size": 325885,
     "uploadedAt": "2026-09-24T11:06:57.550Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-24T11:06:57.659Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-24T11:06:59.800Z",
+    "readyAt": "2026-09-24T11:06:59.672Z"
   }
 }
