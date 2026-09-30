@@ -1001,7 +1001,7 @@
     "readyAt": "2026-09-24T11:06:59.672Z"
   },
   "LetFK": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/LetFK-1d761723a52b653fbde15c43f1adbd77.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/LetFK-1d761723a52b653fbde15c43f1adbd77.jpg",
     "ext": ".jpg",
@@ -1009,7 +1009,8 @@
     "name": "1d761723a52b653fbde15c43f1adbd77.jpg",
     "size": 57120,
     "uploadedAt": "2026-09-30T00:52:42.889Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-09-30T00:52:43.029Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-09-30T00:52:44.683Z",
+    "readyAt": "2026-09-30T00:52:44.563Z"
   }
 }
