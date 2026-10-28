@@ -1012,5 +1012,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-09-30T00:52:44.683Z",
     "readyAt": "2026-09-30T00:52:44.563Z"
+  },
+  "dHxCr": {
+    "status": "pending",
+    "path": "files/dHxCr-default-profil.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/api-nyzz-my-id/main/files/dHxCr-default-profil.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "default-profil.jpg",
+    "size": 5722,
+    "uploadedAt": "2026-10-28T12:20:31.601Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-10-28T12:20:31.775Z"
   }
 }
